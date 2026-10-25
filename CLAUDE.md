@@ -46,4 +46,12 @@ Agenda (from the deck `Caleb-Moose_Seminar_2027` in Google Drive):
 - `seminars/<venue>/` — one folder per seminar: ads, follow-up, results.
 - `MEMORY.md` — running log of results and decisions.
 - **Seminar Tracker** (Google Sheet, ID `1bgtSi9PC-Ra-JDUYlSBvNZhKAB44R0B3PuuGyb7l_cg`) — one row per seminar on the Seminars tab (blue = typed inputs, yellow = still to fill in); Dashboard tab calculates cost per RSVP/appointment and the Meta target. After every seminar, add a row there.
+- **Canva folder "Caleb & Moose Seminar Ads"** (`FAHZDvCn8w8`) — ad images; Caleb shares it with Moose to edit together.
 - `index.html` — the Claude Marketing course pack this setup is based on.
+
+## Connectors (decided 2026-10-26)
+- **Google Drive / Sheets / Docs / Gmail** — files, tracker, drafts (Gmail = drafts only).
+- **Google Calendar** (`calebjurkonis@gmail.com`) — read open times for consultation offers; never create or change events without asking.
+- **Canva** — ad creatives, built in the folder above. Dates stay as editable text.
+- **Adspirer (Meta ads)** — ad account `1399197117057223`, Page "Caleb Jurkonis - Bankers Life" (`465420126651073`). Free tier: **15 actions/month**, so batch reads. Read anytime; any campaign it creates must be **PAUSED**. Caleb turns it on.
+- **Not used:** Calendly (Caleb's call), Supabase (the Google Sheet does that job), Zillow.

@@ -10,6 +10,9 @@ The money is in the appointments, not the RSVPs. This skill covers every touch f
 ## 1. Collect the details
 Venue, the two dates/times, meal, and whether any attendees gave emails (most RSVP by phone, so texts from Google Voice are the default channel).
 
+## 1b. Pull real consultation times
+If the seminar dates are set, read Google Calendar (`calebjurkonis@gmail.com`) for the 7 days after night two and pick 4–6 open weekday slots (30 min, 9 AM–5 PM, not back-to-back with existing events). Use two different slots per message so attendees aren't all offered the same times. Read only: never create, change or invite on calendar events. If dates are TBD, keep `[Tue 10 AM]`-style placeholders and say so.
+
 ## 2. Write these pieces
 1. **RSVP call script** (answering 407-735-6371): warm greeting, which night, how many guests (you + 1), any dietary needs, best number for a reminder text, "Are you coming up on 65 or already on Medicare?" (fine to ask on a call; it's not an ad). Under 60 seconds.
 2. **Confirmation text**, sent right after the call: night, time, venue + address, "reply C to confirm."
