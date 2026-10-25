@@ -101,8 +101,9 @@
 
 ## Break-even math
 
-- Last postcard drop: ~$700 for ~1,000 pieces.
-- **Fill in:** how many RSVP calls did the October Grove House mailer get? → `[N]`
-- Postcard cost per RSVP = $700 ÷ `[N]`. Example: 35 RSVPs = **$20 per RSVP**. That's the number Meta has to beat.
-- Watch after day 4: if cost per call is under that bar, keep going; if it's 2× over, swap the weakest angle.
+October 2026 Grove House postcards (actuals, also in the [Seminar Tracker](https://docs.google.com/spreadsheets/d/1bgtSi9PC-Ra-JDUYlSBvNZhKAB44R0B3PuuGyb7l_cg/edit)):
+- $693.70 for 1,008 cards → 9 RSVPs → 8 attended → 7 appointments.
+- **$77 per RSVP, $99 per appointment** (before the meal). That's the bar Meta has to beat.
+- The room converts: 87.5% of attendees booked. The constraint is getting more people in the door, which is what Meta is for.
+- On a ~$390 budget, Meta beats postcards at **6+ RSVPs**. Check on day 4: on pace for that, keep going; on pace for under 3, swap the weakest angle.
 - Best test: run Meta **alongside** the next postcard drop and ask every caller "How did you hear about us?" (it's in the RSVP script).

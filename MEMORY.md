@@ -9,5 +9,8 @@ Facts, results and decisions that should carry over between sessions. Newest fir
 - Caleb says no Bankers Life compliance review is needed because no Bankers Life products are promoted at the workshop.
 
 ## Results log
+Source of truth is the [Seminar Tracker](https://docs.google.com/spreadsheets/d/1bgtSi9PC-Ra-JDUYlSBvNZhKAB44R0B3PuuGyb7l_cg/edit) Google Sheet (Seminars tab = one row per seminar, Dashboard tab = totals). This table is a quick summary.
+
 | Seminar | Dates | Channel | Spend | Calls/RSVPs | Attended | Appts | Notes |
 |---|---|---|---|---|---|---|---|
+| Grove House | Oct 20 & 23, 2026 | Postcards (1,008) | $693.70 | 9 | 8 | 7 | $77/RSVP, $99/appt before meal. Meta's bar to beat. |
