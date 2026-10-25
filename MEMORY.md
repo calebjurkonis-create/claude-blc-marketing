@@ -2,6 +2,12 @@
 
 Facts, results and decisions that should carry over between sessions. Newest first.
 
+## 2026-10-26 — Creative decisions
+- Ads feature Caleb & Moose's headshots; Caleb's name without "CLTC".
+- Branch manager approved a separate "Caleb & Moose" Facebook page for seminar ads.
+- Video ads: yes. Primary = phone video of Caleb & Moose (script in `seminars/grove-house/meta-ads.md`); placeholder = animated versions of the images.
+- Adspirer free tier has no competitor research (paid plans only).
+
 ## 2026-10-25 — Setup
 - Built Phase 1: `CLAUDE.md`, `meta-seminar-ad` and `seminar-followup` skills, first test run for The Grove House (dates TBD).
 - Baseline to beat (from Moose's "Seminar Advertising Spending Tracker", 2025): ~$600–$780 per postcard drop (~1,000 pieces) + $200–$1,050 per meal night.

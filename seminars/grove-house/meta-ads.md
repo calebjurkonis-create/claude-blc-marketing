@@ -91,11 +91,28 @@
 - Best photo: Caleb & Moose together, smiling, at The Grove House or in front of a room. Real photos beat stock with this crowd.
 - Keep text readable at arm's length: 3 lines max, high contrast.
 
-**Video (15–20s, vertical 4:5, captions burned in)**
-- 0–3s: Caleb or Moose to camera at The Grove House: "Medicare doesn't have to be confusing."
-- 3–12s: "Join us for a free dinner workshop. We'll cover when to sign up, Advantage vs. Supplement, and Social Security timing."
-- 12–18s: Dining room b-roll + on-screen dates. "Bring a guest. Call 407-735-6371 to save your seats."
-- Shoot on a phone, landscape-free, good light. Authentic beats polished.
+**Video: Caleb & Moose on camera (20–30s). This is the ad most likely to win.**
+
+Script:
+> **Caleb:** "Hi, I'm Caleb, and this is Moose."
+> **Moose:** "Medicare doesn't have to be confusing."
+> **Caleb:** "Join us for a free dinner workshop at The Grove House. We'll cover when to sign up, Advantage versus Supplement, and Social Security timing."
+> **Moose:** "Dinner's on us, so bring your spouse or a friend."
+> **Both:** "Call 407-735-6371 to save your seats. See you there!"
+
+On-screen text to add in editing: "FREE DINNER WORKSHOP" (first 3s), venue + `[DATE 1]` / `[DATE 2]` · 6 PM (middle), "CALL 407-735-6371" (last 5s), disclaimer (small, last 3s).
+
+Filming checklist:
+- [ ] Phone held **vertical**, at eye level (stack books or use a $15 tripod)
+- [ ] Face a window or shoot outside in shade; no bright window behind you
+- [ ] Quiet room; phone within 3–4 feet so the mic picks you up
+- [ ] Stand side by side, shoulders angled in, smile before you start talking
+- [ ] Do 3–4 takes; it's fine to read lines off a laptop behind the phone
+- [ ] Keep it under 30 seconds; first 3 seconds should already show both faces
+- [ ] Bonus: 5 seconds of The Grove House dining room/food to cut in (b-roll)
+- [ ] Upload the best take to the Canva folder; I'll add captions and text there
+
+**Placeholder videos (until you film):** animated versions of the 3 images. Canva's **Animate** button does this in about a minute each (open the design → Animate → pick "Rise" or "Fade" → Share → Download → MP4). Weaker than the two of you on camera, but free to test.
 
 ---
 

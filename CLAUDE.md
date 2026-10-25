@@ -4,7 +4,8 @@
 Before executing any request, play it back: what you plan to do, ideas to make it better, and a tightened version of the prompt. Wait for a go-ahead. Answers to your own questions count as the go-ahead for the plan already on the table.
 
 ## Who we are
-- **Caleb Jurkonis, CLTC** and **Mustaf "Moose" Grajqevci** — licensed insurance agents (Bankers Life), Clermont / The Villages, FL.
+- **Caleb Jurkonis** and **Mustaf "Moose" Grajqevci** — licensed insurance agents (Bankers Life), Clermont / The Villages, FL. In ads, use plain names: no "CLTC" or other designations.
+- Put **Caleb & Moose's faces** on the ads (headshots now, event photos once they exist). They are the brand; the trust is in the two of them.
 - "A local team with nearly 15 years of experience, serving more than 1,700 households right here in our community."
 - Caleb: married to Emerson, 3 sons, from Franklin TN, former PGA Head Golf Professional. Moose: married to Dresha, 3 sons, born in Kosovo, raised in West Michigan, licensed investment advisor & fiduciary.
 
@@ -53,5 +54,5 @@ Agenda (from the deck `Caleb-Moose_Seminar_2027` in Google Drive):
 - **Google Drive / Sheets / Docs / Gmail** — files, tracker, drafts (Gmail = drafts only).
 - **Google Calendar** (`calebjurkonis@gmail.com`) — read open times for consultation offers; never create or change events without asking.
 - **Canva** — ad creatives, built in the folder above. Dates stay as editable text.
-- **Adspirer (Meta ads)** — ad account `1399197117057223`, Page "Caleb Jurkonis - Bankers Life" (`465420126651073`). Free tier: **15 actions/month**, so batch reads. Read anytime; any campaign it creates must be **PAUSED**. Caleb turns it on.
+- **Adspirer (Meta ads)** — ad account `1399197117057223`. Seminar ads will run from a **new "Caleb & Moose" Facebook page** (branch manager approved 2026-10-26; not created yet). The existing Page "Caleb Jurkonis - Bankers Life" (`465420126651073`) is not used for seminar ads. Free tier: **15 actions/month**, so batch reads. Read anytime; any campaign it creates must be **PAUSED**. Caleb turns it on.
 - **Not used:** Calendly (Caleb's call), Supabase (the Google Sheet does that job), Zillow.
