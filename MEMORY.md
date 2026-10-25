@@ -7,6 +7,7 @@ Facts, results and decisions that should carry over between sessions. Newest fir
 - Branch manager approved a separate "Caleb & Moose" Facebook page for seminar ads.
 - Video ads: yes. Primary = phone video of Caleb & Moose (script in `seminars/grove-house/meta-ads.md`); placeholder = animated versions of the images.
 - Adspirer free tier has no competitor research (paid plans only).
+- Ad lineup: 2 images ("Medicare is confusing. Dinner shouldn't be." + "Dinner's on us.") + the phone video. Dropped the timeline ad (implied it's OK to sign up late) and the Advantage vs. Supplement comparison (too much, not hooky). Caleb = left headshot, Moose = right.
 
 ## 2026-10-25 — Setup
 - Built Phase 1: `CLAUDE.md`, `meta-seminar-ad` and `seminar-followup` skills, first test run for The Grove House (dates TBD).

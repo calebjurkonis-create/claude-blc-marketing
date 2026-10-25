@@ -18,51 +18,35 @@
 4. **Ad set B (optional test): Instant form.** Same location and budget split ($15/$15 with A).
    - Form fields: First name, Phone. Custom question: *"Which night works best?"* → `[DATE 1]` / `[DATE 2]`. (Age questions aren't allowed in this category.)
    - Thank-you screen: "You're on the list! We'll text to confirm. Questions? Call 407-735-6371."
-5. Add the three ads below to each ad set. Name them `grovehouse_<angle>_<format>`.
+5. Add the two image ads below (and the video once it exists) to each ad set. Name them `grovehouse_<angle>_<format>`.
 6. **Planned spend:** ~$390 over 12 days (≈ half a postcard drop).
 
 ---
 
-## Angle 1: The deadline  ·  `grovehouse_deadline_image`
+## Ad 1: "Medicare is confusing. Dinner shouldn't be."  ·  `grovehouse_confusing_image`
+
+Canva: [Medicare is confusing ad](https://www.canva.com/d/RqKl9wIq5lYaUCs) · preview: `ad-confusing-preview.png`
 
 **Primary text**
-> The Medicare sign-up window opens 3 months before the month you turn 65, and missing it can mean penalties that last for life. 🗓️
+> Medicare is confusing. Dinner shouldn't be. 🍽️
 >
-> Join Caleb & Moose for a free dinner workshop at The Grove House. We'll walk through Parts A, B, C and D, exactly when to sign up, and how to time Social Security. Plain English, no pressure.
+> Join Caleb & Moose for a relaxed evening at The Grove House. Over dinner we'll make Medicare, Social Security and extended care simple: when to sign up, how the options really differ, and what to watch out for. Plain English, no pressure.
 >
 > 🍽️ Complimentary dinner for you + a guest
-> 📍 The Grove House (formerly Sawgrass Tavern)
 > 🕕 [DATE 1] or [DATE 2], 6:00 PM
 > 📞 Seating is limited. Call 407-735-6371 to RSVP
 >
 > Not connected with or endorsed by the U.S. government or the federal Medicare program. Presented by licensed insurance agents. No obligation to enroll.
 
-**Headline:** Medicare at 65, Made Simple
-**Description:** Free dinner workshop
+**Headline:** Medicare, Made Simple Over Dinner
+**Description:** The Grove House · 6 PM
 **CTA:** Call Now (ad set A) / Sign Up (ad set B)
 
 ---
 
-## Angle 2: The choice  ·  `grovehouse_choice_image`
+## Ad 2: "Dinner's on us."  ·  `grovehouse_dinner_image`
 
-**Primary text**
-> Medicare Advantage or a Supplement plan? It's the question we hear most, and the right answer depends on how you live, travel and see your doctors.
->
-> Over dinner, we'll lay out the real trade-offs: networks, pre-approvals, out-of-pocket maximums, and what happens when you're out of state. Bring your questions (and a guest).
->
-> 🍽️ Free dinner workshop at The Grove House
-> 🕕 [DATE 1] or [DATE 2], 6:00 PM
-> 📞 Call 407-735-6371 to save your seats
->
-> Not connected with or endorsed by the U.S. government or the federal Medicare program. Presented by licensed insurance agents. No obligation to enroll.
-
-**Headline:** Advantage vs. Supplement, Explained
-**Description:** Free dinner · The Villages
-**CTA:** Call Now / Sign Up
-
----
-
-## Angle 3: The dinner  ·  `grovehouse_dinner_video`
+Canva: [Dinner's on us ad](https://www.canva.com/d/xr3HqOG3QmUZWY9) · preview: `ad-dinner-preview.png`
 
 **Primary text**
 > Dinner's on us. 🍽️
@@ -80,16 +64,15 @@
 **Description:** The Grove House · 6 PM
 **CTA:** Call Now / Sign Up
 
+The two images share one layout and differ only in the headline, so the results show which hook works better.
+
 ---
 
 ## Creative briefs
 
-**Image (all three angles, 4:5 / 1080×1350)**
-- Top band: "FREE DINNER WORKSHOP" (same look as the Grove House mailer).
-- Middle: angle hook in big type. (1) "When should you sign up for Medicare?" (2) "Advantage or Supplement?" (3) "Dinner's on us."
-- Bottom: venue, `[DATE 1]` / `[DATE 2]` · 6 PM, "CALL TO RSVP 407-735-6371".
-- Best photo: Caleb & Moose together, smiling, at The Grove House or in front of a room. Real photos beat stock with this crowd.
-- Keep text readable at arm's length: 3 lines max, high contrast.
+**Images (4:5 / 1080×1350):** both built in Canva with Caleb & Moose's headshots, venue, `[DATE 1]` / `[DATE 2]` · 6 PM and "CALL TO RSVP 407-735-6371". Swap the dates in Canva before launch.
+
+Dropped on 2026-10-26: the "sign-up timeline" ad (made it look fine to sign up late) and the "Advantage vs. Supplement" comparison (too much to take in, not enough of a hook). The designs are still in the Canva folder.
 
 **Video: Caleb & Moose on camera (20–30s). This is the ad most likely to win.**
 

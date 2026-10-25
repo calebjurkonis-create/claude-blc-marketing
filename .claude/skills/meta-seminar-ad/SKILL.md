@@ -23,18 +23,22 @@ Ask only for what's missing, all at once:
 - **Schedule:** start 10–14 days out, end at 3 PM on night two. Raise budget ~30% for the final 4 days ("last chance" window).
 - **Tracking:** ad name convention `venue_angle_format` (e.g. `grovehouse_penalty_image`) so results map back.
 
-## 3. Write three angles
-For each angle give: **primary text** (≤125 chars before "See more", full version ≤500), **headline** (≤40 chars), **description** (≤30 chars), **CTA button** (Call Now / Sign Up), and the disclaimer at the end of primary text.
+## 3. Write two image ads + one video
+Two image ads and the Caleb & Moose phone video. More than that splits a ~$400 budget too thin for Meta to learn. For each ad give: **primary text** (≤125 chars before "See more", full version ≤500), **headline** (≤40 chars), **description** (≤30 chars), **CTA button** (Call Now / Sign Up), and the disclaimer at the end of primary text.
 
-Default angles (swap if Caleb asks):
-1. **The deadline**: the sign-up window opens 3 months before the 65th-birthday month; missing it can mean lifelong penalties.
-2. **The choice**: Advantage vs. Supplement, and which fits how you live, travel and see doctors.
-3. **The dinner**: a relaxed evening, a local team, bring a guest, no obligation.
+Default ads (current winners to beat; swap if Caleb asks):
+1. **Hook**: "Medicare is confusing. Dinner shouldn't be."
+2. **Trust**: "Dinner's on us." with Caleb & Moose front and center.
+3. **Video**: script + filming checklist in `seminars/grove-house/meta-ads.md`.
+
+What Caleb has rejected (don't bring back):
+- Timelines or rules that make it look fine to act late (e.g. "3 months after your birthday").
+- Teaching in the ad (Advantage vs. Supplement comparisons). The ad makes people curious; the dinner gives the answers.
 
 Check every line against Meta's personal-attributes policy: no "you're turning 65", "your Medicare", "seniors like you". Talk about the topic, not the reader's traits.
 
-## 4. Creative briefs
-For each angle, one image brief and one short-video brief (≤20s, captions on, vertical 4:5). Use real photos of Caleb & Moose and the venue over stock. Big readable type; this audience reads on phones held at arm's length. Reuse mailer look: "FREE DINNER WORKSHOP", venue, dates, "CALL TO RSVP".
+## 4. Creative
+Build images in the Canva folder by copying the latest ad (same layout, swap the headline) so tests compare one thing at a time. Always include Caleb & Moose's headshots (Canva assets `MAHZDys86CE` = Caleb, left; `MAHZDwMZ-fQ` = Moose, right). Big readable type; this audience reads on phones held at arm's length. Show previews and get Caleb's OK before saving.
 
 ## 5. Save + summarize
 Save to `seminars/<venue-slug>/meta-ads.md`. End with: what Caleb must do in Ads Manager (in order), the total planned spend, and the break-even math vs. a ~$700 postcard drop (cost per RSVP call to beat).
