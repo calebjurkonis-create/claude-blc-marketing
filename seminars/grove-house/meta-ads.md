@@ -25,8 +25,10 @@
 
    | Dates | Calls (A) | Website | Per day |
    |---|---|---|---|
-   | Tue 11/3 – Tue 11/10 | $20/day | $10/day | $30 |
-   | Wed 11/11 – Fri 11/13 | $27/day | $13/day | $40 |
+   | Tue 11/3 – Tue 11/10 | $15/day | $15/day | $30 |
+   | Wed 11/11 – Fri 11/13 | $20/day | $20/day | $40 |
+
+   Even split (Caleb, 2026-10-26) so the test is fair.
 
    Day-4 check (Fri 11/6): if one route has 2+ RSVPs and the other has none, move the money to the winner.
 6. Add the two image ads below (and the video once it exists) to each ad set. Name them `grovehouse_<angle>_<format>` (website versions: `grovehouse_<angle>_image_web`).
