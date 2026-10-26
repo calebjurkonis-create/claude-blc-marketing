@@ -5,6 +5,7 @@ Facts, results and decisions that should carry over between sessions. Newest fir
 ## 2026-10-26 — Next seminar
 - **Grove House lunch: Sat 11/14 and Mon 11/16, 12:00 PM**, you + a guest. Ads switched to "Lunch is on us." / "Medicare is confusing. Lunch shouldn't be." Meta launch planned Tue 11/3 (~$440).
 - Facebook page "Caleb & Moose: Medicare & Retirement Workshops" being created by Caleb; profile picture in `brand/caleb-moose-profile.png`.
+- Facebook cover: on phones only the middle ~55% of the width shows, the back/search/more buttons sit over the upper third, and the profile photo covers the bottom center. Keep cover text to one short line in the middle band (Canva 851×315: x 200–650, y 115–150). Phone number and "Hosted by" live in the page info, not the cover.
 
 ## 2026-10-26 — Creative decisions
 - Ads feature Caleb & Moose's headshots; Caleb's name without "CLTC".
