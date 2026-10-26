@@ -2,6 +2,11 @@
 
 Facts, results and decisions that should carry over between sessions. Newest first.
 
+## 2026-10-26 — Decision: mail, not Meta
+- After the Aug–Oct report, Caleb ended the Meta test: November lunches (Sat 11/14 + Mon 11/16, 12 PM, Grove House) will be promoted by postcard. Paused website campaign `120251635328390433` deleted via Adspirer. Facebook page deactivated (not deleted) so it can come back. Call campaign never built.
+- Postcards should carry the RSVP website (QR in `brand/rsvp-website-qr.png`). Order with Panther by about Thu 10/29 to land by ~11/7.
+- The notes below about Meta campaigns are history, kept for a future test.
+
 ## 2026-10-26 — Next seminar
 - Website campaign built PAUSED via Adspirer (campaign `120251635328390433`, 2 ads). Call campaign must be built by Caleb in Ads Manager (Adspirer has no Calls destination). Meta feed needs 4:5 images: use the 4:5 Canva copies. Adspirer: 9 of 15 actions used this month (resets 11/24).
 - Caleb & Moose page (`1437082039478315`) is linked to ad account 1399197117057223; Adspirer sees it. Ready to build paused campaigns.
