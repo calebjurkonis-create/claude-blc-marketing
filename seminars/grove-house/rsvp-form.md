@@ -1,5 +1,7 @@
 # Grove House lunch: Google Form for online RSVPs
 
+**Live form:** https://forms.gle/CHd8XdhEEyJr5EU38 (linked from the website's "RSVP Online" button)
+
 Build at **forms.google.com** → **Blank form** (about 5 minutes). Answers go to a Google Sheet automatically.
 
 **Form title:** RSVP: Free Medicare Lunch Workshop

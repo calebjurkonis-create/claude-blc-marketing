@@ -50,7 +50,7 @@ Agenda (from the deck `Caleb-Moose_Seminar_2027` in Google Drive):
 - `MEMORY.md` — running log of results and decisions.
 - **Seminar Tracker** (Google Sheet, ID `1bgtSi9PC-Ra-JDUYlSBvNZhKAB44R0B3PuuGyb7l_cg`) — one row per seminar on the Seminars tab (blue = typed inputs, yellow = still to fill in); Dashboard tab calculates cost per RSVP/appointment and the Meta target. After every seminar, add a row there.
 - **Canva folder "Caleb & Moose Seminar Ads"** (`FAHZDvCn8w8`) — ad images; Caleb shares it with Moose to edit together.
-- **RSVP website** (Canva design "Caleb & Moose RSVP website", `DAHZFAoyUAY`, in the folder above): 3 sections (ad hero, what we'll cover + RSVP buttons, meet your hosts). Call buttons link to `tel:+14077356371`; "RSVP Online" links to the Google Form (spec in `seminars/grove-house/rsvp-form.md`). Caleb publishes it from Canva (free `.my.canva.site` address).
+- **RSVP website** (Canva design "Caleb & Moose RSVP website", `DAHZFAoyUAY`, in the folder above): 3 sections (ad hero, what we'll cover + RSVP buttons, meet your hosts). Call buttons link to `tel:+14077356371`; "RSVP Online" links to the Google Form https://forms.gle/CHd8XdhEEyJr5EU38 (spec in `seminars/grove-house/rsvp-form.md`). Caleb publishes it from Canva (free `.my.canva.site` address).
 - `index.html` — the Claude Marketing course pack this setup is based on.
 
 ## Connectors (decided 2026-10-26)
