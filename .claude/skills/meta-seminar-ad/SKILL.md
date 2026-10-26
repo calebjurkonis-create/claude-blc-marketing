@@ -1,6 +1,6 @@
 ---
 name: meta-seminar-ad
-description: Write a ready-to-load Meta (Facebook/Instagram) ad campaign that fills a Caleb & Moose dinner workshop. Use when Caleb says "make seminar ads", "Meta ads for [venue]", "Facebook ads for the workshop", or gives new seminar dates/venue.
+description: Write a ready-to-load Meta (Facebook/Instagram) ad campaign that fills a Caleb & Moose lunch or dinner workshop. Use when Caleb says "make seminar ads", "Meta ads for [venue]", "Facebook ads for the workshop", or gives new seminar dates/venue.
 ---
 
 # Meta seminar ad
@@ -27,13 +27,13 @@ Ask only for what's missing, all at once:
 Two image ads and the Caleb & Moose phone video. More than that splits a ~$400 budget too thin for Meta to learn. For each ad give: **primary text** (≤125 chars before "See more", full version ≤500), **headline** (≤40 chars), **description** (≤30 chars), **CTA button** (Call Now / Sign Up), and the disclaimer at the end of primary text.
 
 Default ads (current winners to beat; swap if Caleb asks):
-1. **Hook**: "Medicare is confusing. Dinner shouldn't be."
-2. **Trust**: "Dinner's on us." with Caleb & Moose front and center.
+1. **Hook**: "Medicare is confusing. [Lunch/Dinner] shouldn't be."
+2. **Trust**: "[Lunch is / Dinner's] on us." with Caleb & Moose front and center.
 3. **Video**: script + filming checklist in `seminars/grove-house/meta-ads.md`.
 
 What Caleb has rejected (don't bring back):
 - Timelines or rules that make it look fine to act late (e.g. "3 months after your birthday").
-- Teaching in the ad (Advantage vs. Supplement comparisons). The ad makes people curious; the dinner gives the answers.
+- Teaching in the ad (Advantage vs. Supplement comparisons). The ad makes people curious; the workshop gives the answers.
 
 Check every line against Meta's personal-attributes policy: no "you're turning 65", "your Medicare", "seniors like you". Talk about the topic, not the reader's traits.
 

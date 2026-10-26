@@ -10,7 +10,7 @@ Before executing any request, play it back: what you plan to do, ideas to make i
 - Caleb: married to Emerson, 3 sons, from Franklin TN, former PGA Head Golf Professional. Moose: married to Dresha, 3 sons, born in Kosovo, raised in West Michigan, licensed investment advisor & fiduciary.
 
 ## The offer
-**Free dinner workshop: "Medicare, Social Security, & Extended Care Workshop."** Complimentary dinner for you + a guest. Goal of every workshop: **book personal consultations (sales appointments).**
+**Free lunch or dinner workshop: "Medicare, Social Security, & Extended Care Workshop."** Complimentary meal for you + a guest. Always ask which meal and time; it changes every headline. Goal of every workshop: **book personal consultations (sales appointments).**
 
 Agenda (from the deck `Caleb-Moose_Seminar_2027` in Google Drive):
 1. Medicare made simple: Parts A, B, C, D and exactly when to sign up
@@ -19,7 +19,7 @@ Agenda (from the deck `Caleb-Moose_Seminar_2027` in Google Drive):
 4. Extended care: protecting savings, home, and spouse
 
 ## Audience
-- Primary: **turning 65 soon (T65)**, Central Florida, especially The Villages. Couples are common (dinner is for "you + a guest").
+- Primary: **turning 65 soon (T65)**, Central Florida, especially The Villages. Couples are common (the meal is for "you + a guest").
 - Secondary: already on Medicare and re-thinking coverage; Social Security filers 62–70.
 - Their worries: missing the sign-up window and lifetime penalties, Advantage networks/pre-approvals, surprise costs, long-term care draining savings, irreversible Social Security decisions.
 
@@ -30,7 +30,7 @@ Agenda (from the deck `Caleb-Moose_Seminar_2027` in Google Drive):
 - Never: fear-mongering, "FREE!!!" spam energy, fake urgency, guarantees, "best plan" claims.
 
 ## Venues & logistics
-- **The Grove House**, 810 Marilee Pl, The Villages, FL 32163 (formerly Sawgrass Tavern). Dinner included. Usual format: two nights, 6:00 PM (e.g. Tue + Fri, or Sat + Mon).
+- **The Grove House**, 810 Marilee Pl, The Villages, FL 32163 (formerly Sawgrass Tavern). Meal included. Formats used: two dinners at 6:00 PM (e.g. Tue + Fri) or two lunches at 12:00 PM (Nov 2026: Sat 11/14 + Mon 11/16).
 - Past venues: Sawgrass Tavern, Giordano's, American Social, Harvest, Tampa.
 - **RSVP: call 407-735-6371** (Google Voice). Seating is limited; "RSVP early to save your seats."
 - Direct mail: 6x9 postcards via Panther Printing (Chad), ~1,000 pieces, ~$600–$780 per drop, plus a "Last Chance" follow-up card.

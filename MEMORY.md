@@ -2,6 +2,10 @@
 
 Facts, results and decisions that should carry over between sessions. Newest first.
 
+## 2026-10-26 — Next seminar
+- **Grove House lunch: Sat 11/14 and Mon 11/16, 12:00 PM**, you + a guest. Ads switched to "Lunch is on us." / "Medicare is confusing. Lunch shouldn't be." Meta launch planned Tue 11/3 (~$440).
+- Facebook page "Caleb & Moose: Medicare & Retirement Workshops" being created by Caleb; profile picture in `brand/caleb-moose-profile.png`.
+
 ## 2026-10-26 — Creative decisions
 - Ads feature Caleb & Moose's headshots; Caleb's name without "CLTC".
 - Branch manager approved a separate "Caleb & Moose" Facebook page for seminar ads.

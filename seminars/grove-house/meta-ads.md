@@ -1,8 +1,8 @@
 # Grove House: Meta ad campaign (test run)
 
-**Workshop:** Medicare, Social Security, & Extended Care Workshop. Free dinner for you + a guest.
+**Workshop:** Medicare, Social Security, & Extended Care Workshop. Free lunch for you + a guest.
 **Venue:** The Grove House (formerly Sawgrass Tavern), 810 Marilee Pl, The Villages, FL 32163
-**Dates:** `[DATE 1]` at 6:00 PM or `[DATE 2]` at 6:00 PM (TBD)
+**Dates:** Sat, Nov 14 or Mon, Nov 16, 2026 · 12:00 PM lunch
 **RSVP:** Call 407-735-6371
 
 ---
@@ -14,54 +14,54 @@
 3. **Ad set A: Calls.** Conversion location **Calls**, number 407-735-6371.
    - Location: **15 miles around 810 Marilee Pl** (covers The Villages, Lady Lake, Fruitland Park, Wildwood, Oxford, Summerfield and most of Leesburg). That 55+ footprint is your age filter, since Meta locks age to 18–65+ for this category.
    - Audience: broad / Advantage+. Placements: Advantage+.
-   - Budget: **$30/day**, start 12 days before `[DATE 1]`, end 3 PM on `[DATE 2]`. Bump to **$40/day** for the last 4 days.
+   - Budget: **$30/day** Tue 11/3 – Tue 11/10, then **$40/day** Wed 11/11 – Sun 11/15 for the final push. End **9 AM Mon 11/16**.
 4. **Ad set B (optional test): Instant form.** Same location and budget split ($15/$15 with A).
-   - Form fields: First name, Phone. Custom question: *"Which night works best?"* → `[DATE 1]` / `[DATE 2]`. (Age questions aren't allowed in this category.)
+   - Form fields: First name, Phone. Custom question: *"Which day works best?"* → Sat, Nov 14 / Mon, Nov 16. (Age questions aren't allowed in this category.)
    - Thank-you screen: "You're on the list! We'll text to confirm. Questions? Call 407-735-6371."
 5. Add the two image ads below (and the video once it exists) to each ad set. Name them `grovehouse_<angle>_<format>`.
-6. **Planned spend:** ~$390 over 12 days (≈ half a postcard drop).
+6. **Planned spend:** ~$440 over 13 days (≈ a postcard drop). **Launch: Tue, Nov 3** (page must be live and linked by Mon, Nov 2).
 
 ---
 
-## Ad 1: "Medicare is confusing. Dinner shouldn't be."  ·  `grovehouse_confusing_image`
+## Ad 1: "Medicare is confusing. Lunch shouldn't be."  ·  `grovehouse_confusing_image`
 
 Canva: [Medicare is confusing ad](https://www.canva.com/d/RqKl9wIq5lYaUCs) · preview: `ad-confusing-preview.png`
 
 **Primary text**
-> Medicare is confusing. Dinner shouldn't be. 🍽️
+> Medicare is confusing. Lunch shouldn't be. 🍽️
 >
-> Join Caleb & Moose for a relaxed evening at The Grove House. Over dinner we'll make Medicare, Social Security and extended care simple: when to sign up, how the options really differ, and what to watch out for. Plain English, no pressure.
+> Join Caleb & Moose for a relaxed lunch at The Grove House. Over lunch we'll make Medicare, Social Security and extended care simple: when to sign up, how the options really differ, and what to watch out for. Plain English, no pressure.
 >
-> 🍽️ Complimentary dinner for you + a guest
-> 🕕 [DATE 1] or [DATE 2], 6:00 PM
+> 🍽️ Complimentary lunch for you + a guest
+> 🕛 Sat, Nov 14 or Mon, Nov 16 · 12:00 PM
 > 📞 Seating is limited. Call 407-735-6371 to RSVP
 >
 > Not connected with or endorsed by the U.S. government or the federal Medicare program. Presented by licensed insurance agents. No obligation to enroll.
 
-**Headline:** Medicare, Made Simple Over Dinner
-**Description:** The Grove House · 6 PM
+**Headline:** Medicare, Made Simple Over Lunch
+**Description:** Nov 14 or 16 · Noon
 **CTA:** Call Now (ad set A) / Sign Up (ad set B)
 
 ---
 
-## Ad 2: "Dinner's on us."  ·  `grovehouse_dinner_image`
+## Ad 2: "Lunch is on us."  ·  `grovehouse_lunch_image`
 
-Canva: [Dinner's on us ad](https://www.canva.com/d/xr3HqOG3QmUZWY9) · preview: `ad-dinner-preview.png`
+Canva: [Lunch is on us ad](https://www.canva.com/d/xr3HqOG3QmUZWY9) · preview: `ad-lunch-preview.png`
 
 **Primary text**
-> Dinner's on us. 🍽️
+> Lunch is on us. 🍽️
 >
-> We're Caleb & Moose, your local licensed agents (nearly 15 years, 1,700+ households in our community). A couple of times a season we host a relaxed evening at The Grove House to make Medicare, Social Security and extended care simple.
+> We're Caleb & Moose, your local licensed agents (nearly 15 years, 1,700+ households in our community). A couple of times a season we host a relaxed lunch at The Grove House to make Medicare, Social Security and extended care simple.
 >
 > Good food, honest answers, zero obligation. Bring your spouse or a friend.
 >
-> 🕕 [DATE 1] or [DATE 2], 6:00 PM
+> 🕛 Sat, Nov 14 or Mon, Nov 16 · 12:00 PM
 > 📞 Seats go fast. Call 407-735-6371
 >
 > Not connected with or endorsed by the U.S. government or the federal Medicare program. Presented by licensed insurance agents. No obligation to enroll.
 
-**Headline:** Free Dinner + Medicare Made Simple
-**Description:** The Grove House · 6 PM
+**Headline:** Free Lunch + Medicare Made Simple
+**Description:** Nov 14 or 16 · Noon
 **CTA:** Call Now / Sign Up
 
 The two images share one layout and differ only in the headline, so the results show which hook works better.
@@ -70,7 +70,7 @@ The two images share one layout and differ only in the headline, so the results 
 
 ## Creative briefs
 
-**Images (4:5 / 1080×1350):** both built in Canva with Caleb & Moose's headshots, venue, `[DATE 1]` / `[DATE 2]` · 6 PM and "CALL TO RSVP 407-735-6371". Swap the dates in Canva before launch.
+**Images (4:5 / 1080×1350):** both built in Canva with Caleb & Moose's headshots, venue, "Sat, Nov 14 or Mon, Nov 16 · 12:00 PM" and "CALL TO RSVP 407-735-6371". For the next seminar, copy and edit the date line.
 
 Dropped on 2026-10-26: the "sign-up timeline" ad (made it look fine to sign up late) and the "Advantage vs. Supplement" comparison (too much to take in, not enough of a hook). The designs are still in the Canva folder.
 
@@ -79,11 +79,11 @@ Dropped on 2026-10-26: the "sign-up timeline" ad (made it look fine to sign up l
 Script:
 > **Caleb:** "Hi, I'm Caleb, and this is Moose."
 > **Moose:** "Medicare doesn't have to be confusing."
-> **Caleb:** "Join us for a free dinner workshop at The Grove House. We'll cover when to sign up, Advantage versus Supplement, and Social Security timing."
-> **Moose:** "Dinner's on us, so bring your spouse or a friend."
+> **Caleb:** "Join us for a free lunch workshop at The Grove House. We'll cover when to sign up, Advantage versus Supplement, and Social Security timing."
+> **Moose:** "Lunch is on us, so bring your spouse or a friend."
 > **Both:** "Call 407-735-6371 to save your seats. See you there!"
 
-On-screen text to add in editing: "FREE DINNER WORKSHOP" (first 3s), venue + `[DATE 1]` / `[DATE 2]` · 6 PM (middle), "CALL 407-735-6371" (last 5s), disclaimer (small, last 3s).
+On-screen text to add in editing: "FREE LUNCH WORKSHOP" (first 3s), venue + "Sat 11/14 or Mon 11/16 · Noon" (middle), "CALL 407-735-6371" (last 5s), disclaimer (small, last 3s).
 
 Filming checklist:
 - [ ] Phone held **vertical**, at eye level (stack books or use a $15 tripod)
@@ -105,5 +105,5 @@ October 2026 Grove House postcards (actuals, also in the [Seminar Tracker](https
 - $693.70 for 1,008 cards → 9 RSVPs → 8 attended → 7 appointments.
 - **$77 per RSVP, $99 per appointment** (before the meal). That's the bar Meta has to beat.
 - The room converts: 87.5% of attendees booked. The constraint is getting more people in the door, which is what Meta is for.
-- On a ~$390 budget, Meta beats postcards at **6+ RSVPs**. Check on day 4: on pace for that, keep going; on pace for under 3, swap the weakest angle.
+- On the ~$440 budget, Meta beats postcards at **6+ RSVPs**. Check on day 4: on pace for that, keep going; on pace for under 3, swap the weakest angle.
 - Best test: run Meta **alongside** the next postcard drop and ask every caller "How did you hear about us?" (it's in the RSVP script).
