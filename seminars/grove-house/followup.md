@@ -8,6 +8,7 @@
 | On RSVP call | Script below + "how did you hear about us?" | Phone |
 | Right after call | Confirmation | Text |
 | Wed 11/11 (Sat group) · Fri 11/13 (Mon group) | 3-day reminder | Text |
+| Day before | Call anyone who hasn't replied to the reminder | Phone |
 | Morning of (by 9 AM) | "Saving your seats at noon" | Text |
 | Mon 11/16 (Sat group) · Tue 11/17 (Mon group) | Attended → book a review / No-show → re-invite | Text (+ email draft if available) |
 | Fri 11/20 – Mon 11/23 | Nudge to attendees who haven't booked | Text |
@@ -28,11 +29,11 @@ Consultation slots below were open on Caleb's Google Calendar on 2026-10-26. Re-
 >
 > Quick one so we tailor the afternoon: are you coming up on 65, or already on Medicare?
 >
-> And how did you hear about us: the postcard, Facebook, or a friend?
+> And how did you hear about us: the postcard, our website, or a friend? *(If postcard:)* Is there a letter A or B printed on your card, just above your address?
 >
 > Is this the best number to text you a reminder? Perfect. You're all set for [Saturday / Monday] at noon. We'll save your seats. See you there!"
 
-Log each call: name, day, # guests, T65 vs. on Medicare, **source (postcard / Facebook / friend)**, phone.
+Log each call in the **Nov RSVPs** tab of the Seminar Tracker: name, phone, which lunch, seats, **source (Postcard A / Postcard B / Postcard no code / Website form / Friend)**, T65 vs. on Medicare. The tab's "Next step" column says which text or call each person needs today.
 
 ---
 

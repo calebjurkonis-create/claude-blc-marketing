@@ -4,7 +4,8 @@ Facts, results and decisions that should carry over between sessions. Newest fir
 
 ## 2026-10-26 — Decision: mail, not Meta
 - After the Aug–Oct report, Caleb ended the Meta test: November lunches (Sat 11/14 + Mon 11/16, 12 PM, Grove House) will be promoted by postcard. Paused website campaign `120251635328390433` deleted via Adspirer. Facebook page deactivated (not deleted) so it can come back. Call campaign never built.
-- Postcards should carry the RSVP website (QR in `brand/rsvp-website-qr.png`). Order with Panther by about Thu 10/29 to land by ~11/7.
+- November postcard: two versions split 50/50, A = "Turning 65 soon?" (the Oct headline, control) and B = "Medicare is confusing. Lunch shouldn't be." Card letter printed above the address; ask callers which letter. QR to the RSVP site on the back. Gmail draft to Chad created (Caleb attaches the PDFs and sends). Order by about Thu 10/29 to land by ~11/7. ~500 cards per version is too few to prove a winner in one drop; keep the split for 2–3 drops.
+- No-show plan: Nov RSVPs tab + confirmation, 3-day, day-before call, morning-of. Goal: cut no-shows from 25% to ~10%.
 - The notes below about Meta campaigns are history, kept for a future test.
 
 ## 2026-10-26 — Next seminar
