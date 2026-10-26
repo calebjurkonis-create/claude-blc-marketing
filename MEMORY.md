@@ -33,4 +33,4 @@ Source of truth is the [Seminar Tracker](https://docs.google.com/spreadsheets/d/
 | Sawgrass Tavern | Sep 12 & 14, 2026 (6 PM dinners) | Postcards (1,006) | $690.83 | 9 | 7 | 6 | $77/RSVP, $115/appt before meal. Panther #174807. |
 | Sawgrass Tavern | Aug 15 & 17, 2026 (6 PM dinners) | Postcards (1,012) | $693.18 | 10 | 6 | 4 | $69/RSVP, $173/appt; 4 no-shows. Panther #174140. |
 
-Three postcard drops (Aug–Oct): $2,078 → 28 RSVPs, 21 attended, 17 appts = **$74.20/RSVP, $122/appt** before meals. That is Meta's bar (Dashboard tab). Ignore the August Orlando/Giordano's drop (Caleb).
+Three postcard drops (Aug–Oct): $2,078 → 28 RSVPs, 21 attended, 17 appts = **$74.20/RSVP, $122/appt** before meals. That is Meta's bar (Dashboard tab). Ignore the August Orlando/Giordano's drop (Caleb). Sales, commission and pending pipeline per seminar are tracked in the Sheet only (Seminars tab, columns V–AH; Rates tab), not here.
