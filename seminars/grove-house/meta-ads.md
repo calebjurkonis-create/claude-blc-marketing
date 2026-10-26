@@ -14,12 +14,12 @@
 3. **Ad set A: Calls.** Conversion location **Calls**, number 407-735-6371.
    - Location: **15 miles around 810 Marilee Pl** (covers The Villages, Lady Lake, Fruitland Park, Wildwood, Oxford, Summerfield and most of Leesburg). That 55+ footprint is your age filter, since Meta locks age to 18–65+ for this category.
    - Audience: broad / Advantage+. Placements: Advantage+.
-   - Budget: **$30/day** Tue 11/3 – Tue 11/10, then **$40/day** Wed 11/11 – Sun 11/15 for the final push. End **9 AM Mon 11/16**.
+   - Budget: **$30/day** Tue 11/3 – Tue 11/10, then **$40/day** Wed 11/11 – Fri 11/13 for the final push. **Last day of ads: Fri 11/13** (end 11:59 PM).
 4. **Ad set B (optional test): Instant form.** Same location and budget split ($15/$15 with A).
    - Form fields: First name, Phone. Custom question: *"Which day works best?"* → Sat, Nov 14 / Mon, Nov 16. (Age questions aren't allowed in this category.)
    - Thank-you screen: "You're on the list! We'll text to confirm. Questions? Call 407-735-6371."
 5. Add the two image ads below (and the video once it exists) to each ad set. Name them `grovehouse_<angle>_<format>`.
-6. **Planned spend:** ~$440 over 13 days (≈ a postcard drop). **Launch: Tue, Nov 3** (page must be live and linked by Mon, Nov 2).
+6. **Planned spend:** ~$360 over 11 days (about half a postcard drop). **Launch: Tue, Nov 3** (page must be live and linked by Mon, Nov 2).
 
 ---
 
@@ -105,5 +105,5 @@ October 2026 Grove House postcards (actuals, also in the [Seminar Tracker](https
 - $693.70 for 1,008 cards → 9 RSVPs → 8 attended → 7 appointments.
 - **$77 per RSVP, $99 per appointment** (before the meal). That's the bar Meta has to beat.
 - The room converts: 87.5% of attendees booked. The constraint is getting more people in the door, which is what Meta is for.
-- On the ~$440 budget, Meta beats postcards at **6+ RSVPs**. Check on day 4: on pace for that, keep going; on pace for under 3, swap the weakest angle.
+- On the ~$360 budget, Meta beats postcards at **5+ RSVPs**. Check on day 4: on pace for that, keep going; on pace for under 3, swap the weakest angle.
 - Best test: run Meta **alongside** the next postcard drop and ask every caller "How did you hear about us?" (it's in the RSVP script).
