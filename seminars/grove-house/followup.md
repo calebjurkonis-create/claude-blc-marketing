@@ -29,16 +29,18 @@ Consultation slots below were open on Caleb's Google Calendar on 2026-10-26. Re-
 >
 > Quick one so we tailor the afternoon: are you coming up on 65, or already on Medicare?
 >
-> And how did you hear about us: the postcard, our website, or a friend? *(If postcard:)* Is there a letter A or B printed on your card, just above your address?
+> And how did you hear about us: the postcard, our website, or a friend? *(If postcard:)* Great, please bring that postcard with you to lunch.
 >
 > Is this the best number to text you a reminder? Perfect. You're all set for [Saturday / Monday] at noon. We'll save your seats. See you there!"
 
-Log each call in the **Nov RSVPs** tab of the Seminar Tracker: name, phone, which lunch, seats, **source (Postcard A / Postcard B / Postcard no code / Website form / Friend)**, T65 vs. on Medicare. The tab's "Next step" column says which text or call each person needs today.
+At each lunch, collect the postcards at check-in and count the two fronts ("Turning 65 soon?" vs "Medicare is confusing") to see which card pulled better.
+
+Log each call in the **Nov RSVPs** tab of the Seminar Tracker: name, phone, which lunch, seats, **source (Postcard / Website form / Friend)**, T65 vs. on Medicare. The tab's "Next step" column says which text or call each person needs today.
 
 ---
 
 ## 2. Confirmation text (right after the call)
-> Hi [First]! You're confirmed for our free lunch workshop at The Grove House, [Sat, Nov 14 / Mon, Nov 16] at 12:00 PM (810 Marilee Pl, formerly Sawgrass Tavern). Reply C to confirm or call if plans change. – Caleb & Moose
+> Hi [First]! You're confirmed for our free lunch workshop at The Grove House, [Sat, Nov 14 / Mon, Nov 16] at 12:00 PM (810 Marilee Pl, formerly Sawgrass Tavern). Please bring your postcard with you. Reply C to confirm or call if plans change. – Caleb & Moose
 
 ## 3. Reminder texts
 **3 days before (Wed 11/11 for Saturday, Fri 11/13 for Monday):**

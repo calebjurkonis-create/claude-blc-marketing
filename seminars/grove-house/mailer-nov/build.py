@@ -1,4 +1,4 @@
-"""Build the November postcard versions (A = proven headline, B = test headline) from postcard.template.html."""
+"""Build the November postcard versions (A = proven headline, B = test headline; the fronts tell them apart) from postcard.template.html."""
 from pathlib import Path
 
 CHECK = '<svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="12" fill="#0f4651"/><path d="M6.5 12.5l3.5 3.5 7.5-8" fill="none" stroke="#e6b04a" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg>'
@@ -19,6 +19,6 @@ VERSIONS = {
 template = Path("postcard.template.html").read_text()
 for code, v in VERSIONS.items():
     html = (template.replace("{{TITLE}}", v["title"]).replace("{{HEADLINE}}", v["headline"])
-            .replace("{{TAGLINE}}", v["tagline"]).replace("{{CHECK}}", CHECK).replace("{{CODE}}", code))
+            .replace("{{TAGLINE}}", v["tagline"]).replace("{{CHECK}}", CHECK))
     Path(f"postcard-{code}.html").write_text(html)
     print("wrote", f"postcard-{code}.html")
