@@ -38,7 +38,7 @@ What Caleb has rejected (don't bring back):
 Check every line against Meta's personal-attributes policy: no "you're turning 65", "your Medicare", "seniors like you". Talk about the topic, not the reader's traits.
 
 ## 4. Creative
-Build images in the Canva folder by copying the latest ad (same layout, swap the headline) so tests compare one thing at a time. Always include Caleb & Moose's headshots (Canva assets `MAHZDys86CE` = Caleb, left; `MAHZDwMZ-fQ` = Moose, right). Big readable type; this audience reads on phones held at arm's length. Show previews and get Caleb's OK before saving.
+Build images in the Canva folder by copying the latest ad (same layout, swap the headline) so tests compare one thing at a time. Always include Caleb & Moose's headshots (Canva assets `MAHZDys86CE` = Caleb, left; `MAHZDwMZ-fQ` = Moose, right). Big readable type; this audience reads on phones held at arm's length. Caleb has given standing permission to save design edits once the plan is approved (see `CLAUDE.md`); show him the finished result afterward.
 
 ## 5. Save + summarize
 Save to `seminars/<venue-slug>/meta-ads.md`. End with: what Caleb must do in Ads Manager (in order), the total planned spend, and the break-even math vs. a ~$700 postcard drop (cost per RSVP call to beat).

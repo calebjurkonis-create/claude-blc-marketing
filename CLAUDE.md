@@ -3,6 +3,8 @@
 ## Working rule (always)
 Before executing any request, play it back: what you plan to do, ideas to make it better, and a tightened version of the prompt. Wait for a go-ahead. Answers to your own questions count as the go-ahead for the plan already on the table.
 
+**Standing permission: design edits (Caleb, 2026-10-26).** Once a design plan is approved, edit and save Canva designs without asking again: no separate "OK to save?" step. Show the finished result afterward. This covers editing and saving designs in the Caleb & Moose folder. It does not cover deleting designs, publishing ads, or spending money; those still need Caleb's OK.
+
 ## Who we are
 - **Caleb Jurkonis** and **Mustaf "Moose" Grajqevci** — licensed insurance agents (Bankers Life), Clermont / The Villages, FL. In ads, use plain names: no "CLTC" or other designations.
 - Put **Caleb & Moose's faces** on the ads (headshots now, event photos once they exist). They are the brand; the trust is in the two of them.
