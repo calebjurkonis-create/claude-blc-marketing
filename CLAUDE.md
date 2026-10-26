@@ -57,5 +57,5 @@ Agenda (from the deck `Caleb-Moose_Seminar_2027` in Google Drive):
 - **Google Drive / Sheets / Docs / Gmail** — files, tracker, drafts (Gmail = drafts only).
 - **Google Calendar** (`calebjurkonis@gmail.com`) — read open times for consultation offers; never create or change events without asking.
 - **Canva** — ad creatives, built in the folder above. Dates stay as editable text.
-- **Adspirer (Meta ads)** — ad account `1399197117057223`. Seminar ads will run from a **new "Caleb & Moose" Facebook page** (branch manager approved 2026-10-26; not created yet). The existing Page "Caleb Jurkonis - Bankers Life" (`465420126651073`) is not used for seminar ads. Free tier: **15 actions/month**, so batch reads. Read anytime; any campaign it creates must be **PAUSED**. Caleb turns it on.
+- **Adspirer (Meta ads)** — ad account `1399197117057223`. Seminar ads run from the **"Caleb & Moose : Medicare & Retirement Workshops" Facebook page** (`1437082039478315`, linked to the ad account 2026-10-26; branch manager approved). The existing Page "Caleb Jurkonis - Bankers Life" (`465420126651073`) is not used for seminar ads. Free tier: **15 actions/month**, so batch reads. Read anytime; any campaign it creates must be **PAUSED**. Caleb turns it on.
 - **Not used:** Calendly (Caleb's call), Supabase (the Google Sheet does that job), Zillow.

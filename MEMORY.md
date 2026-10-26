@@ -3,6 +3,7 @@
 Facts, results and decisions that should carry over between sessions. Newest first.
 
 ## 2026-10-26 — Next seminar
+- Caleb & Moose page (`1437082039478315`) is linked to ad account 1399197117057223; Adspirer sees it. Ready to build paused campaigns.
 - RSVP website live at https://otter-k66vr8.my.canva.site/ (single tall page; Canva publishes page 1 only). Gold Call + RSVP Online buttons sit in the top card so they show without scrolling on phones. Moose's name on the site: Mustaf Grajqevci (no "Moose" in his name line).
 - Meta split: Calls campaign (Leads) + small Website campaign (Traffic, CTA Sign Up, no pixel possible on Canva). Same ~$360 total; instant-form ad set dropped in favor of the website.
 - **Grove House lunch: Sat 11/14 and Mon 11/16, 12:00 PM**, you + a guest. Ads switched to "Lunch is on us." / "Medicare is confusing. Lunch shouldn't be." Meta ads run Tue 11/3 – Fri 11/13 (Caleb: 11/13 is the last day), ~$360; beats postcards at 5+ RSVPs.
