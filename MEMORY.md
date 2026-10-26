@@ -3,9 +3,10 @@
 Facts, results and decisions that should carry over between sessions. Newest first.
 
 ## 2026-10-26 — Next seminar
+- Website campaign built PAUSED via Adspirer (campaign `120251635328390433`, 2 ads). Call campaign must be built by Caleb in Ads Manager (Adspirer has no Calls destination). Meta feed needs 4:5 images: use the 4:5 Canva copies. Adspirer: 9 of 15 actions used this month (resets 11/24).
 - Caleb & Moose page (`1437082039478315`) is linked to ad account 1399197117057223; Adspirer sees it. Ready to build paused campaigns.
 - RSVP website live at https://otter-k66vr8.my.canva.site/ (single tall page; Canva publishes page 1 only). Gold Call + RSVP Online buttons sit in the top card so they show without scrolling on phones. Moose's name on the site: Mustaf Grajqevci (no "Moose" in his name line).
-- Meta split: Calls campaign (Leads) + small Website campaign (Traffic, CTA Sign Up, no pixel possible on Canva). Even split $15/$15 a day, $20/$20 from 11/11; same ~$360 total; instant-form ad set dropped in favor of the website.
+- Meta split: Calls campaign (Leads) + small Website campaign (Traffic, CTA Sign Up, no pixel possible on Canva). Flat $15/$15 a day 11/3–11/13 (~$330), no raise near the event (Caleb); instant-form ad set dropped in favor of the website.
 - **Grove House lunch: Sat 11/14 and Mon 11/16, 12:00 PM**, you + a guest. Ads switched to "Lunch is on us." / "Medicare is confusing. Lunch shouldn't be." Meta ads run Tue 11/3 – Fri 11/13 (Caleb: 11/13 is the last day), ~$360; beats postcards at 5+ RSVPs.
 - Facebook page "Caleb & Moose: Medicare & Retirement Workshops" being created by Caleb; profile picture in `brand/caleb-moose-profile.png`.
 - Facebook cover: on phones only the middle ~55% of the width shows, the back/search/more buttons sit over the upper third, and the profile photo covers the bottom center. Keep cover text to one short line in the middle band (Canva 851×315: x 200–650, y 115–150). Phone number and "Hosted by" live in the page info, not the cover.

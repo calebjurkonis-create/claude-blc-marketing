@@ -7,32 +7,27 @@
 
 ---
 
-## Campaign setup checklist (Ads Manager, in this order)
+## Campaign setup
 
-1. **Create campaign → Leads.** Turn on **Special Ad Category → Financial Products & Services** before anything else. It can't be added later.
-2. **Campaign name:** `grovehouse_workshop_[month]`
-3. **Ad set A: Calls.** Conversion location **Calls**, number 407-735-6371.
-   - Location: **15 miles around 810 Marilee Pl** (covers The Villages, Lady Lake, Fruitland Park, Wildwood, Oxford, Summerfield and most of Leesburg). That 55+ footprint is your age filter, since Meta locks age to 18–65+ for this category.
-   - Audience: broad / Advantage+. Placements: Advantage+.
-   - Budget: **$30/day** Tue 11/3 – Tue 11/10, then **$40/day** Wed 11/11 – Fri 11/13 for the final push. **Last day of ads: Fri 11/13** (end 11:59 PM).
-4. **Website test (replaces the instant-form idea).** A second, small campaign that sends people to the RSVP website, which has both the call button and the online form.
-   - **Create campaign → Traffic**, again with **Special Ad Category → Financial Products & Services**. (A Leads campaign can't send people to the website without a Meta pixel, and the Canva site can't hold one.)
-   - Campaign name: `grovehouse_workshop_website`. Optimize for **Landing page views**.
-   - Same 15-mile location, broad audience and Advantage+ placements as ad set A.
-   - Website URL: `https://otter-k66vr8.my.canva.site/`. Display link: `otter-k66vr8.my.canva.site`. CTA button: **Sign Up**.
-   - Use the website versions of the two ads (below).
-5. **Budget split (same ~$360 total):**
+**Budget (Caleb, 2026-10-26): flat $15/day per campaign, $30/day total, Tue 11/3 – Fri 11/13. No budget raise near the event.** 11 days × $30 = **~$330**. Day-4 check (Fri 11/6): if one route has 2+ RSVPs and the other has none, move the money to the winner.
 
-   | Dates | Calls (A) | Website | Per day |
-   |---|---|---|---|
-   | Tue 11/3 – Tue 11/10 | $15/day | $15/day | $30 |
-   | Wed 11/11 – Fri 11/13 | $20/day | $20/day | $40 |
+Ad images for Meta are the **4:5 (1080×1350)** copies in the Canva folder: [Medicare is confusing 4:5](https://www.canva.com/d/qEWfkpwTyY-Lek7) (`DAHZFz1Z150`) and [Lunch is on us 4:5](https://www.canva.com/d/wdvn33W1DwTRVwH) (`DAHZFw-a0No`). Meta's feed takes 1:1 or 4:5, not the original 3:4.
 
-   Even split (Caleb, 2026-10-26) so the test is fair.
+### Campaign 1: Website (built by Claude via Adspirer, 2026-10-26, PAUSED)
+- `grovehouse_workshop_website` · campaign `120251635328390433` · ad set `grovehouse_website_15mi` `120251635328520433`
+- Traffic objective, Special Ad Category Financial Products & Services (US), 15 miles around The Villages, ages 18–65+, $15/day, ends Fri 11/13 11:59 PM, Caleb & Moose page.
+- Ads: `grovehouse_confusing_image_web` (`120251635328970433`) and `grovehouse_lunch_image_web` (`120251635331710433`), CTA Sign Up → `https://otter-k66vr8.my.canva.site/` (UTM `utm_source=meta&utm_campaign=grovehouse_nov2026`). Advantage+ Creative turned off so Meta can't crop or rewrite the images/text.
+- [Open in Ads Manager](https://www.facebook.com/adsmanager/manage/campaigns?act=1399197117057223&selected_campaign_ids=120251635328390433). Caleb checks it and sets it **Active on Tue 11/3**.
 
-   Day-4 check (Fri 11/6): if one route has 2+ RSVPs and the other has none, move the money to the winner.
-6. Add the two image ads below (and the video once it exists) to each ad set. Name them `grovehouse_<angle>_<format>` (website versions: `grovehouse_<angle>_image_web`).
-7. **Planned spend:** ~$360 over 11 days (about half a postcard drop). **Launch: Tue, Nov 3** (page must be live and linked by Mon, Nov 2).
+### Campaign 2: Calls (Caleb builds in Ads Manager; Adspirer can't make call ads)
+1. Ads Manager → **Create** → **Leads**. Name: `grovehouse_workshop_calls`.
+2. **Special ad categories → Financial products and services**, country United States. Do this first; it can't be added later.
+3. Ad set: conversion location **Calls**, number **407-735-6371**. Budget **$15/day**, start Tue 11/3, end **Fri 11/13 11:59 PM**.
+4. Location: **The Villages, FL + 15 mi** (covers Lady Lake, Fruitland Park, Wildwood, Oxford, Summerfield and most of Leesburg). Leave age and audience as is; Meta locks them for this category.
+5. Placements: Advantage+.
+6. Ad 1: upload the **Medicare is confusing 4:5** image, paste Ad 1 text below, headline + description below, button **Call Now**. Name `grovehouse_confusing_image`.
+7. Ad 2: same with the **Lunch is on us 4:5** image and Ad 2 text. Name `grovehouse_lunch_image`.
+8. Turn off "Advantage+ creative" enhancements on each ad. **Publish** (it goes to review), then turn the campaign **off** until Tue 11/3, or set the start date so it begins on its own on 11/3.
 
 **How to tell which route worked:** phone RSVPs come from the call ads, postcards or the site's call button, so ask every caller "How did you hear about us?" (it's in the RSVP script). Google Form RSVPs come from the website; the form asks the same question.
 

@@ -20,7 +20,7 @@ Ask only for what's missing, all at once:
 - **Location:** 15-mile radius around the venue (minimum allowed). Note which nearby 55+ communities that radius covers; that's the real age filter.
 - **Audience:** Advantage+ / broad. No interests needed; age is locked 18–65+.
 - **Placements:** Advantage+ placements. Facebook Feed does the work for this crowd.
-- **Schedule:** start 10–14 days out, end at 3 PM on night two. Raise budget ~30% for the final 4 days ("last chance" window).
+- **Schedule:** start 10–14 days out, end the day before the first event (Caleb: last ad day = day before). Keep the budget flat; Caleb does not want a raise close to the event.
 - **Tracking:** ad name convention `venue_angle_format` (e.g. `grovehouse_penalty_image`) so results map back.
 
 ## 3. Write two image ads + one video
@@ -38,9 +38,9 @@ What Caleb has rejected (don't bring back):
 Check every line against Meta's personal-attributes policy: no "you're turning 65", "your Medicare", "seniors like you". Talk about the topic, not the reader's traits.
 
 ## 4. Creative
-Build images in the Canva folder by copying the latest ad (same layout, swap the headline) so tests compare one thing at a time. Always include Caleb & Moose's headshots (Canva assets `MAHZDys86CE` = Caleb, left; `MAHZDwMZ-fQ` = Moose, right). Big readable type; this audience reads on phones held at arm's length. Caleb has given standing permission to save design edits once the plan is approved (see `CLAUDE.md`); show him the finished result afterward.
+Meta feed images must be **4:5 (1080×1350)** or 1:1. Build images in the Canva folder by copying the latest ad (same layout, swap the headline) so tests compare one thing at a time. Always include Caleb & Moose's headshots (Canva assets `MAHZDys86CE` = Caleb, left; `MAHZDwMZ-fQ` = Moose, right). Big readable type; this audience reads on phones held at arm's length. Caleb has given standing permission to save design edits once the plan is approved (see `CLAUDE.md`); show him the finished result afterward.
 
 ## 5. Save + summarize
 Save to `seminars/<venue-slug>/meta-ads.md`. End with: what Caleb must do in Ads Manager (in order), the total planned spend, and the break-even math vs. a ~$700 postcard drop (cost per RSVP call to beat).
 
-Never publish, launch or spend. Draft only.
+Adspirer can build Traffic (website) campaigns PAUSED, but not Calls campaigns; give Caleb the Ads Manager steps for those. Never publish, launch or spend. Draft only.
