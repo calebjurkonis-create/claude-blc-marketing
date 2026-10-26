@@ -12,7 +12,7 @@ Ask only for what's missing, all at once:
 - Venue + address, and the two dates/times (use `[DATE 1]` / `[DATE 2]` placeholders if TBD)
 - Meal included? Seat cap?
 - Daily budget and how many days before the first night ads should run (default: $25–$40/day, 10–14 days)
-- RSVP path: phone call (default, 407-735-6371) and/or Meta instant form
+- RSVP path: phone call (default, 407-735-6371) and/or the RSVP website (Traffic campaign, CTA Sign Up; see `seminars/grove-house/meta-ads.md`)
 
 ## 2. Campaign setup (write it out as a checklist)
 - **Special ad category:** Financial Products & Services. Say so first; it can't be changed after launch.

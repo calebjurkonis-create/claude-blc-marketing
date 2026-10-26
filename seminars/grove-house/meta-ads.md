@@ -15,11 +15,24 @@
    - Location: **15 miles around 810 Marilee Pl** (covers The Villages, Lady Lake, Fruitland Park, Wildwood, Oxford, Summerfield and most of Leesburg). That 55+ footprint is your age filter, since Meta locks age to 18–65+ for this category.
    - Audience: broad / Advantage+. Placements: Advantage+.
    - Budget: **$30/day** Tue 11/3 – Tue 11/10, then **$40/day** Wed 11/11 – Fri 11/13 for the final push. **Last day of ads: Fri 11/13** (end 11:59 PM).
-4. **Ad set B (optional test): Instant form.** Same location and budget split ($15/$15 with A).
-   - Form fields: First name, Phone. Custom question: *"Which day works best?"* → Sat, Nov 14 / Mon, Nov 16. (Age questions aren't allowed in this category.)
-   - Thank-you screen: "You're on the list! We'll text to confirm. Questions? Call 407-735-6371."
-5. Add the two image ads below (and the video once it exists) to each ad set. Name them `grovehouse_<angle>_<format>`.
-6. **Planned spend:** ~$360 over 11 days (about half a postcard drop). **Launch: Tue, Nov 3** (page must be live and linked by Mon, Nov 2).
+4. **Website test (replaces the instant-form idea).** A second, small campaign that sends people to the RSVP website, which has both the call button and the online form.
+   - **Create campaign → Traffic**, again with **Special Ad Category → Financial Products & Services**. (A Leads campaign can't send people to the website without a Meta pixel, and the Canva site can't hold one.)
+   - Campaign name: `grovehouse_workshop_website`. Optimize for **Landing page views**.
+   - Same 15-mile location, broad audience and Advantage+ placements as ad set A.
+   - Website URL: `https://otter-k66vr8.my.canva.site/`. Display link: `otter-k66vr8.my.canva.site`. CTA button: **Sign Up**.
+   - Use the website versions of the two ads (below).
+5. **Budget split (same ~$360 total):**
+
+   | Dates | Calls (A) | Website | Per day |
+   |---|---|---|---|
+   | Tue 11/3 – Tue 11/10 | $20/day | $10/day | $30 |
+   | Wed 11/11 – Fri 11/13 | $27/day | $13/day | $40 |
+
+   Day-4 check (Fri 11/6): if one route has 2+ RSVPs and the other has none, move the money to the winner.
+6. Add the two image ads below (and the video once it exists) to each ad set. Name them `grovehouse_<angle>_<format>` (website versions: `grovehouse_<angle>_image_web`).
+7. **Planned spend:** ~$360 over 11 days (about half a postcard drop). **Launch: Tue, Nov 3** (page must be live and linked by Mon, Nov 2).
+
+**How to tell which route worked:** phone RSVPs come from the call ads, postcards or the site's call button, so ask every caller "How did you hear about us?" (it's in the RSVP script). Google Form RSVPs come from the website; the form asks the same question.
 
 ---
 
@@ -65,6 +78,39 @@ Canva: [Lunch is on us ad](https://www.canva.com/d/xr3HqOG3QmUZWY9) · preview: 
 **CTA:** Call Now / Sign Up
 
 The two images share one layout and differ only in the headline, so the results show which hook works better.
+
+---
+
+## Website versions (Traffic campaign, CTA "Sign Up")
+
+Same images and headlines. Only the RSVP line and the button change.
+
+**Ad 1 web: "Medicare is confusing. Lunch shouldn't be."**  ·  `grovehouse_confusing_image_web`
+> Medicare is confusing. Lunch shouldn't be. 🍽️
+>
+> Join Caleb & Moose for a relaxed lunch at The Grove House. Over lunch we'll make Medicare, Social Security and extended care simple: when to sign up, how the options really differ, and what to watch out for. Plain English, no pressure.
+>
+> 🍽️ Complimentary lunch for you + a guest
+> 🕛 Sat, Nov 14 or Mon, Nov 16 · 12:00 PM
+> 👉 Tap "Sign Up" to save your seats online in under a minute, or call 407-735-6371
+>
+> Not connected with or endorsed by the U.S. government or the federal Medicare program. Presented by licensed insurance agents. No obligation to enroll.
+
+**Headline:** Medicare, Made Simple Over Lunch · **Description:** Save your seats online · **CTA:** Sign Up
+
+**Ad 2 web: "Lunch is on us."**  ·  `grovehouse_lunch_image_web`
+> Lunch is on us. 🍽️
+>
+> We're Caleb & Moose, your local licensed agents (nearly 15 years, 1,700+ households in our community). A couple of times a season we host a relaxed lunch at The Grove House to make Medicare, Social Security and extended care simple.
+>
+> Good food, honest answers, zero obligation. Bring your spouse or a friend.
+>
+> 🕛 Sat, Nov 14 or Mon, Nov 16 · 12:00 PM
+> 👉 Tap "Sign Up" to save your seats, or call 407-735-6371
+>
+> Not connected with or endorsed by the U.S. government or the federal Medicare program. Presented by licensed insurance agents. No obligation to enroll.
+
+**Headline:** Free Lunch + Medicare Made Simple · **Description:** Save your seats online · **CTA:** Sign Up
 
 ---
 
