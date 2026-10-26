@@ -1,0 +1,181 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Nov postcard B - Medicare is confusing</title>
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Fraunces:ital,opsz,wght@0,9..144,600;0,9..144,700;1,9..144,400;1,9..144,500&family=Source+Sans+3:wght@400;600;700;800&display=swap" rel="stylesheet">
+<style>
+  /* 6x9 postcard with 0.125in bleed on every side = 9.25 x 6.25 in. Keep text 0.25in inside the trim. */
+  @page { size: 9.25in 6.25in; margin: 0; }
+  :root {
+    --cream: #f7eee0; --teal: #0f4651; --teal-2: #0b3944; --orange: #c4532f;
+    --gold: #e6b04a; --ink: #20303a; --ink-2: #4a5963;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: "Source Sans 3", Arial, sans-serif; color: var(--ink); }
+  .page { width: 9.25in; height: 6.25in; position: relative; overflow: hidden; break-after: page; }
+  .page:last-child { break-after: auto; }
+
+  /* FRONT */
+  .front .left { position: absolute; left: 0; top: 0; width: 5.42in; height: 100%;
+    background: linear-gradient(160deg, #f8f0e3 0%, #f6ecdc 70%, #f1dfc0 100%); }
+  .front .bar { position: absolute; left: 5.42in; top: 0; width: 0.07in; height: 100%; background: var(--gold); }
+  .front .right { position: absolute; left: 5.49in; top: 0; right: 0; height: 100%;
+    background: linear-gradient(170deg, #1a5763 0%, var(--teal) 35%, var(--teal-2) 100%); color: #fff; }
+  .eyebrow { font-weight: 800; letter-spacing: .16em; font-size: 9.5pt; color: var(--orange); text-transform: uppercase; }
+  .eyebrow .dot { color: var(--gold); margin: 0 .35em; }
+  .front .left .inner { position: absolute; left: 0.5in; top: 0.45in; right: 0.3in; }
+  .headline { font-family: Fraunces, Georgia, serif; font-weight: 700; color: var(--teal); line-height: .98; margin-top: .14in; }
+  .headline.big { font-size: 56pt; }
+  .headline.mid { font-size: 34pt; line-height: 1.04; }
+  .headline .accent { color: var(--orange); }
+  .tag { font-family: Fraunces, Georgia, serif; font-style: italic; font-weight: 500; font-size: 19pt; color: var(--ink); margin-top: .12in; }
+  .rule { width: .9in; height: .045in; background: var(--gold); border-radius: 2px; margin: .17in 0 .16in; }
+  .checks { list-style: none; }
+  .checks li { display: flex; align-items: center; gap: .13in; font-size: 13pt; font-weight: 600; margin: .07in 0; color: var(--ink); }
+  .checks svg { flex: none; width: .23in; height: .23in; }
+  .window { font-size: 11.5pt; color: var(--ink-2); margin-top: .14in; width: 3.4in; line-height: 1.32; }
+  .window b { color: var(--teal); font-weight: 700; }
+  .badge { position: absolute; left: 3.98in; top: 4.62in; width: 1.3in; height: 1.3in; }
+
+  .front .right .inner { position: absolute; left: .32in; right: .45in; top: .3in; }
+  .invited { font-family: Caveat, cursive; font-size: 33pt; color: var(--gold); transform: rotate(-4deg); transform-origin: left; line-height: 1; }
+  .hosts { display: flex; justify-content: space-between; margin-top: .14in; padding: 0 .06in; }
+  .host { text-align: center; width: 1.45in; }
+  .host img { width: 1.09in; height: 1.09in; border-radius: 50%; object-fit: cover; border: .03in solid var(--gold); display: block; margin: 0 auto; }
+  .host .n { font-weight: 700; font-size: 10.5pt; margin-top: .06in; }
+  .agents { text-align: center; font-size: 8pt; letter-spacing: .16em; color: #b8cdd2; margin-top: .1in; }
+  .hr { height: 1px; background: rgba(230,176,74,.55); margin: .17in 0 .14in; }
+  .meal { font-family: Fraunces, Georgia, serif; font-weight: 600; font-size: 17.5pt; line-height: 1.05; }
+  .meal i { display: block; font-weight: 400; color: var(--gold); }
+  .dates { color: var(--gold); font-weight: 700; font-size: 11pt; margin-top: .1in; line-height: 1.5; }
+  .venue { display: flex; justify-content: space-between; align-items: center; margin-top: .1in; }
+  .venue .addr { font-size: 10.5pt; line-height: 1.38; display: flex; gap: .08in; align-items: flex-start; }
+  .venue .addr b { color: var(--gold); }
+  .venue .pin { width: .14in; flex: none; margin-top: .03in; }
+  .logo { background: #f7eee0; border-radius: .08in; padding: .04in .06in; width: 1.18in; }
+  .logo img { width: 100%; display: block; }
+  .logo .f { display: block; text-align: center; font-size: 6.5pt; color: #4a5963; margin-top: .01in; }
+  .callpill { position: absolute; left: .32in; right: .45in; bottom: .42in; background: var(--gold); border-radius: .4in;
+    border: .04in solid #2f6672; text-align: center; padding: .06in 0 .03in; color: var(--teal-2); }
+  .callpill .s { font-weight: 800; letter-spacing: .2em; font-size: 10.5pt; }
+  .callpill .p { font-weight: 800; font-size: 31pt; line-height: 1; }
+
+  /* BACK */
+  .back .left { position: absolute; left: 0; top: 0; width: 4.85in; height: 100%; background: var(--cream); }
+  .back .left .inner { position: absolute; left: .5in; top: .45in; right: .3in; }
+  .road { font-family: Fraunces, Georgia, serif; font-weight: 700; font-size: 25pt; color: var(--teal); margin-top: .06in; }
+  .road i { font-weight: 400; color: var(--orange); }
+  .items { margin-top: .16in; }
+  .item { display: grid; grid-template-columns: .44in 1fr; margin-bottom: .1in; }
+  .item .num { font-family: Fraunces, Georgia, serif; font-weight: 700; font-style: italic; font-size: 25pt; color: var(--orange); line-height: 1; }
+  .item .t { font-weight: 700; font-size: 13.5pt; line-height: 1.15; }
+  .item .d { font-size: 11.5pt; color: var(--ink-2); line-height: 1.25; }
+  .proof { display: flex; gap: .16in; align-items: center; margin-top: .06in; }
+  .quote { border-left: .045in solid var(--gold); padding-left: .12in; font-family: Fraunces, Georgia, serif; font-style: italic; font-size: 11pt; color: var(--teal); line-height: 1.3; flex: 1; }
+  .qr { text-align: center; flex: none; width: 1.15in; }
+  .qr img { width: .82in; height: .82in; display: block; margin: 0 auto; }
+  .qr .l { font-size: 7.5pt; font-weight: 700; color: var(--teal); letter-spacing: .04em; line-height: 1.15; margin-top: .02in; }
+  .backpill { position: absolute; left: .5in; width: 4.05in; bottom: .78in; background: var(--teal); color: #fff; border-radius: .4in;
+    display: flex; align-items: center; justify-content: center; gap: .14in; height: .66in; }
+  .backpill .s { color: var(--gold); font-weight: 800; letter-spacing: .16em; font-size: 11.5pt; }
+  .backpill .p { font-weight: 800; font-size: 25pt; }
+  .disc { position: absolute; left: .5in; width: 4.1in; bottom: .3in; font-size: 7pt; color: #6f7a80; line-height: 1.3; }
+
+  .back .right { position: absolute; left: 4.85in; top: 0; right: 0; height: 100%; background: #fff; }
+  .addrpanel { position: absolute; left: 0; right: 0; top: 0; height: 2.62in; background: linear-gradient(170deg, var(--teal) 0%, var(--teal-2) 100%); color: #fff; border-bottom: .05in solid var(--gold); }
+  .addrpanel .inner { position: absolute; left: .32in; top: .42in; width: 2.45in; }
+  .addrpanel .eyebrow { color: var(--gold); font-size: 8.5pt; }
+  .addrpanel .meal { font-size: 16pt; margin-top: .06in; }
+  .addrpanel .when { font-weight: 700; font-size: 10pt; line-height: 1.55; margin-top: .08in; }
+  .addrpanel .where { font-size: 10pt; line-height: 1.4; margin-top: .06in; }
+  .addrpanel .code { display: inline-block; margin-top: .05in; font-size: 7.5pt; letter-spacing: .08em; color: #b8cdd2; }
+  .indicia { position: absolute; right: .4in; top: .4in; width: .95in; border: 1.2px solid #000; background: #fff; color: #000;
+    font: 7pt/1.2 Arial, sans-serif; text-align: center; padding: .03in .02in; }
+  .addrpanel .logo { position: absolute; right: .4in; top: 1.38in; }
+</style>
+</head>
+<body>
+
+<!-- FRONT -->
+<section class="page front">
+  <div class="left"><div class="inner">
+    <div class="eyebrow">Free lunch workshop<span class="dot">•</span>Turning 65</div>
+    <h1 class="headline mid">Medicare is<br>confusing.<br><span class="accent">Lunch shouldn’t be.</span></h1>
+    <div class="tag">Let's make it simple, over lunch.</div>
+    <div class="rule"></div>
+    <ul class="checks">
+      <li><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="12" fill="#0f4651"/><path d="M6.5 12.5l3.5 3.5 7.5-8" fill="none" stroke="#e6b04a" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg>When do you sign up, and what if you miss it?</li>
+      <li><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="12" fill="#0f4651"/><path d="M6.5 12.5l3.5 3.5 7.5-8" fill="none" stroke="#e6b04a" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg>Medicare Advantage or a Supplement plan?</li>
+      <li><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="12" fill="#0f4651"/><path d="M6.5 12.5l3.5 3.5 7.5-8" fill="none" stroke="#e6b04a" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg>When should you start Social Security?</li>
+    </ul>
+    <p class="window">Your sign-up window opens <b>3 months before the month you turn 65.</b> Missing it can mean penalties that last for life.</p>
+  </div>
+  <svg class="badge" viewBox="0 0 200 200" aria-hidden="true">
+    <circle cx="100" cy="100" r="98" fill="#c4532f"/>
+    <circle cx="100" cy="100" r="86" fill="none" stroke="#f7eee0" stroke-width="1.5" stroke-dasharray="2 4"/>
+    <circle cx="100" cy="100" r="50" fill="#f7eee0"/>
+    <defs><path id="ring" d="M100,100 m-70,0 a70,70 0 1,1 140,0 a70,70 0 1,1 -140,0"/></defs>
+    <text font-family="Source Sans 3" font-weight="800" font-size="17" letter-spacing="4" fill="#f7eee0">
+      <textPath href="#ring" startOffset="2%">SEATING IS LIMITED • RSVP EARLY •</textPath></text>
+    <text x="100" y="106" text-anchor="middle" font-family="Fraunces" font-weight="700" font-size="40" fill="#0f4651">65</text>
+    <text x="100" y="128" text-anchor="middle" font-family="Source Sans 3" font-weight="800" font-size="11" letter-spacing="2" fill="#c4532f">READY</text>
+  </svg>
+  </div>
+  <div class="bar"></div>
+  <div class="right"><div class="inner">
+    <div class="invited">You're invited!</div>
+    <div class="hosts">
+      <div class="host"><img src="assets/caleb.png" alt="Caleb Jurkonis"><div class="n">Caleb Jurkonis</div></div>
+      <div class="host"><img src="assets/moose.png" alt="Mustaf Grajqevci"><div class="n">Mustaf Grajqevci</div></div>
+    </div>
+    <div class="agents">YOUR LOCAL LICENSED AGENTS</div>
+    <div class="hr"></div>
+    <div class="meal">Complimentary lunch <i>for you + a guest</i></div>
+    <div class="dates">Saturday, November 14 at 12:00 PM<br>or Monday, November 16 at 12:00 PM</div>
+    <div class="venue">
+      <div class="addr"><svg class="pin" viewBox="0 0 24 24"><path fill="#e6b04a" d="M12 2a7 7 0 0 0-7 7c0 5 7 13 7 13s7-8 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg>
+        <div><b>The Grove House</b><br>810 Marilee Pl<br>The Villages, FL 32163</div></div>
+      <div class="logo"><img src="assets/grove-logo.png" alt="The Grove House"><span class="f">(formerly Sawgrass Tavern)</span></div>
+    </div>
+  </div>
+  <div class="callpill"><div class="s">CALL TO RSVP</div><div class="p">407-735-6371</div></div>
+  </div>
+</section>
+
+<!-- BACK (address side) -->
+<section class="page back">
+  <div class="left"><div class="inner">
+    <div class="eyebrow">Over lunch, we'll cover</div>
+    <div class="road">Your roadmap <i>to 65</i></div>
+    <div class="items">
+      <div class="item"><div class="num">1</div><div><div class="t">Medicare made simple</div><div class="d">Parts A, B, C and D, and exactly when to sign up.</div></div></div>
+      <div class="item"><div class="num">2</div><div><div class="t">Advantage vs. Supplement</div><div class="d">Which fits the way you live, travel, and see doctors.</div></div></div>
+      <div class="item"><div class="num">3</div><div><div class="t">Social Security timing</div><div class="d">Getting the most out of what you've earned.</div></div></div>
+      <div class="item"><div class="num">4</div><div><div class="t">Extended care</div><div class="d">Protecting your savings, home, and spouse.</div></div></div>
+    </div>
+    <div class="proof">
+      <div class="quote">A local team with nearly 15 years of experience, serving more than 1,700 households right here in our community.</div>
+      <div class="qr"><img src="assets/qr.png" alt="QR code to RSVP online"><div class="l">OR RSVP ONLINE:<br>SCAN WITH PHONE</div></div>
+    </div>
+  </div>
+  <div class="backpill"><span class="s">CALL TO RSVP</span><span class="p">407-735-6371</span></div>
+  <div class="disc">Not connected with or endorsed by the U.S. government or the federal Medicare program. Presented by licensed insurance agents. No obligation to enroll.</div>
+  </div>
+  <div class="right">
+    <div class="addrpanel">
+      <div class="inner">
+        <div class="eyebrow">You're invited</div>
+        <div class="meal">Complimentary lunch <i>for you + a guest</i></div>
+        <div class="when">Saturday, November 14 at 12:00 PM<br>or Monday, November 16 at 12:00 PM</div>
+        <div class="where"><b>The Grove House</b>, 810 Marilee Pl<br>The Villages, FL 32163<br>RSVP early to save your seats</div>
+        <div class="code">CARD B</div>
+      </div>
+      <div class="indicia">PRSRT STD<br>U.S. POSTAGE<br>PAID<br>FORT MYERS, FL<br>PERMIT NO. 972</div>
+      <div class="logo"><img src="assets/grove-logo.png" alt=""><span class="f">(formerly Sawgrass Tavern)</span></div>
+    </div>
+  </div>
+</section>
+
+</body>
+</html>
