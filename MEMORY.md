@@ -2,6 +2,9 @@
 
 Facts, results and decisions that should carry over between sessions. Newest first.
 
+## 2026-10-28 — November mailing: one version only
+- Caleb dropped the A/B test after Chad's proofs (order #176186): all 1,000 cards get version A, "Turning 65 soon?" (`seminars/grove-house/mailer-nov/postcard-A.pdf`). List re-sent as one list with no CARD column. Chad's first quote was $706.49 ($270.80 print, $418.09 postage, $17.60 tax); waiting on his updated confirmation.
+
 ## 2026-10-26 — Ideas Caleb turned down (don't re-pitch)
 - **Pipeline tab / Monday follow-up drafts for open annuity cases:** too overbearing. Caleb and Moose handle their own case follow-up.
 - **Referral or "bring a friend" outreach to existing clients:** existing households have already been worked thoroughly; extra spend there isn't worth it.
