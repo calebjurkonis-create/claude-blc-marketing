@@ -2,6 +2,9 @@
 
 Facts, results and decisions that should carry over between sessions. Newest first.
 
+## 2026-11-21 — Handoff out of this code session
+- Everything moved to Google: Drive folder "Seminar Marketing (Claude)" (https://drive.google.com/drive/folders/1PfsEBLjfWaqnSRsFqS1a6gW0JOorP8LT) with the Seminar Playbook doc, Aug–Oct report, Nov mailing list, postcard PDFs and two account skills (seminar-mailing-list, seminar-results) for Caleb to upload. Nov RSVPs tab reworked to match the Seminar Agent (24-hr reminder, typed columns A–O, lunch dates in R27:S28).
+
 ## 2026-10-28 — November mailing: one version only
 - Caleb dropped the A/B test after Chad's proofs (order #176186): all 1,000 cards get version A, "Turning 65 soon?" (`seminars/grove-house/mailer-nov/postcard-A.pdf`). List re-sent as one list with no CARD column. Chad's first quote was $706.49 ($270.80 print, $418.09 postage, $17.60 tax); waiting on his updated confirmation.
 
